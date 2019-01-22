@@ -1,4 +1,4 @@
-# Sample ASP.NET Core application for Azure Pipelines docs
+# Sample ASP.NET Core application for Azure Pipelines docs-Sreekanth
 [![Build Status](https://sreekanthkalle.visualstudio.com/CICDTest/_apis/build/status/CICDTest-ASP.NET%20Core-CI?branchName=master)](https://sreekanthkalle.visualstudio.com/CICDTest/_build/latest?definitionId=1?branchName=master)
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
@@ -40,4 +40,4 @@ Microsoft's general trademark guidelines can be found at http://go.microsoft.com
 Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
-or trademarks, whether by implication, estoppel or otherwise.
+or trademarks, whether by implication, estoppel or otherwise Sreekanth.
