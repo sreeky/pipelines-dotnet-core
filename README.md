@@ -1,5 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
-
+[![Build Status](https://sreekanthkalle.visualstudio.com/CICDTest/_apis/build/status/CICDTest-ASP.NET%20Core-CI?branchName=master)](https://sreekanthkalle.visualstudio.com/CICDTest/_build/latest?definitionId=1?branchName=master)
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
